@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/remcoplasmeyer/flowy-vue.git"
+    "url": "git+https://github.com/pycproductions/flowy-vue.git"
   },
   "files": [
     "dist/lib"
